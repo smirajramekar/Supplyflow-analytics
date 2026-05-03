@@ -1,0 +1,301 @@
+supplier_id,supplier_name,supplier_type,city,state,contact_person,email,phone,rating,contract_start,payment_terms
+SUP0001,Mandal Logistics,Manufacturer,Mumbai,Maharashtra,Ucchal Sehgal,supplier1@supplyflow.in,9339670711,2.6,2019-12-04,Net 30
+SUP0002,Mody Industries,Manufacturer,Chennai,Tamil Nadu,Abhimanyu Anne,supplier2@supplyflow.in,9334760738,3.6,2019-09-20,Net 30
+SUP0003,Chand Trading,Distributor,Chennai,Tamil Nadu,Nimrat Naidu,supplier3@supplyflow.in,9336696312,3.0,2021-10-09,Net 30
+SUP0004,Rastogi Logistics,Distributor,Delhi,Delhi,Vinaya Narain,supplier4@supplyflow.in,9266944844,4.2,2019-06-04,Net 30
+SUP0005,Upadhyay Logistics,Wholesaler,Hyderabad,Telangana,Zayan Sani,supplier5@supplyflow.in,9384027113,2.7,2018-12-15,Net 30
+SUP0006,Sinha Logistics,Wholesaler,Hyderabad,Telangana,Vansha Narayan,supplier6@supplyflow.in,9764130526,2.7,2020-10-07,Net 30
+SUP0007,Dyal Logistics,Manufacturer,Mumbai,Maharashtra,Divya Garg,supplier7@supplyflow.in,9349957310,4.2,2018-07-09,Immediate
+SUP0008,Pal Logistics,Manufacturer,Bangalore,Karnataka,Vincent Thaman,supplier8@supplyflow.in,9819595113,2.9,2020-12-22,Net 30
+SUP0009,Manne Trading,Wholesaler,Chennai,Tamil Nadu,Zilmil Natt,supplier9@supplyflow.in,9362863730,4.1,2019-08-13,Net 60
+SUP0010,Rama Logistics,Manufacturer,Chennai,Tamil Nadu,Avni Zacharia,supplier10@supplyflow.in,9345938494,3.0,2018-06-13,Net 60
+SUP0011,Sura Trading,Wholesaler,Mumbai,Maharashtra,Falguni Basu,supplier11@supplyflow.in,9437882805,3.0,2019-11-16,Immediate
+SUP0012,Keer Enterprises,Manufacturer,Hyderabad,Telangana,Unnati Ravi,supplier12@supplyflow.in,9899925830,2.9,2020-12-19,Immediate
+SUP0013,Gulati Enterprises,Manufacturer,Chennai,Tamil Nadu,Ridhi Virk,supplier13@supplyflow.in,9647099690,3.5,2021-02-25,Net 30
+SUP0014,Wali Enterprises,Wholesaler,Mumbai,Maharashtra,Vrishti Kata,supplier14@supplyflow.in,9553290810,2.9,2018-07-13,Immediate
+SUP0015,Chatterjee Trading,Manufacturer,Chennai,Tamil Nadu,Yadavi Mahajan,supplier15@supplyflow.in,9830448745,3.1,2018-11-18,Net 60
+SUP0016,Jani Supply Co,Manufacturer,Bangalore,Karnataka,Hamsini Goel,supplier16@supplyflow.in,9587182120,2.8,2018-12-24,Net 60
+SUP0017,Bhakta Trading,Manufacturer,Chennai,Tamil Nadu,Azad Gala,supplier17@supplyflow.in,9771410971,4.4,2020-11-17,Net 45
+SUP0018,Palla Enterprises,Wholesaler,Delhi,Delhi,Hiral Thakur,supplier18@supplyflow.in,9936043811,3.4,2018-10-11,Immediate
+SUP0019,Sura Logistics,Distributor,Mumbai,Maharashtra,Chanakya Modi,supplier19@supplyflow.in,9357109965,2.8,2018-04-19,Net 30
+SUP0020,Sem Industries,Wholesaler,Mumbai,Maharashtra,Yashoda Krishna,supplier20@supplyflow.in,9922308461,4.3,2019-03-22,Immediate
+SUP0021,De Trading,Wholesaler,Chennai,Tamil Nadu,Vaishnavi Ram,supplier21@supplyflow.in,9554340903,2.9,2019-09-25,Net 45
+SUP0022,Jaggi Logistics,Distributor,Bangalore,Karnataka,Mekhala Sunder,supplier22@supplyflow.in,9655742829,3.5,2021-02-08,Net 45
+SUP0023,Shan Trading,Wholesaler,Mumbai,Maharashtra,Rohan Kohli,supplier23@supplyflow.in,9347083812,3.3,2019-01-03,Net 30
+SUP0024,Chatterjee Industries,Distributor,Delhi,Delhi,Nimrat Bhatt,supplier24@supplyflow.in,9176082500,2.7,2019-05-22,Immediate
+SUP0025,Kari Trading,Wholesaler,Delhi,Delhi,Nandini Som,supplier25@supplyflow.in,9607526654,3.8,2019-08-26,Immediate
+SUP0026,Aggarwal Supply Co,Distributor,Delhi,Delhi,Yamini Vohra,supplier26@supplyflow.in,9554814084,2.7,2021-08-28,Net 30
+SUP0027,Bansal Logistics,Manufacturer,Mumbai,Maharashtra,Utkarsh Chakraborty,supplier27@supplyflow.in,9366992705,2.7,2019-04-18,Immediate
+SUP0028,Baria Logistics,Distributor,Delhi,Delhi,Om Basak,supplier28@supplyflow.in,9368227631,3.6,2018-08-26,Net 30
+SUP0029,Chandra Trading,Manufacturer,Mumbai,Maharashtra,Meghana Ravi,supplier29@supplyflow.in,9200140141,4.1,2019-03-14,Immediate
+SUP0030,Karan Supply Co,Manufacturer,Hyderabad,Telangana,Urvi Bains,supplier30@supplyflow.in,9276777762,3.0,2021-01-13,Net 60
+SUP0031,Dalal Trading,Wholesaler,Hyderabad,Telangana,Nidra Sankar,supplier31@supplyflow.in,9871385010,3.2,2021-03-07,Net 60
+SUP0032,Uppal Trading,Wholesaler,Delhi,Delhi,Kiaan Sridhar,supplier32@supplyflow.in,9682177668,4.9,2018-12-11,Net 30
+SUP0033,Mody Trading,Wholesaler,Mumbai,Maharashtra,Falak Goda,supplier33@supplyflow.in,9269042105,4.0,2018-09-03,Net 45
+SUP0034,Bansal Enterprises,Distributor,Mumbai,Maharashtra,Vasatika Goda,supplier34@supplyflow.in,9228727266,4.0,2019-10-20,Net 30
+SUP0035,Sibal Trading,Wholesaler,Chennai,Tamil Nadu,Victor Panchal,supplier35@supplyflow.in,9661333669,2.7,2020-05-07,Net 60
+SUP0036,Suri Enterprises,Wholesaler,Delhi,Delhi,Urvi Swaminathan,supplier36@supplyflow.in,9793101194,3.2,2020-08-11,Net 30
+SUP0037,Bora Trading,Manufacturer,Mumbai,Maharashtra,Idika Thakkar,supplier37@supplyflow.in,9178663096,3.6,2019-09-09,Net 45
+SUP0038,Dutta Enterprises,Distributor,Bangalore,Karnataka,Vrinda Nath,supplier38@supplyflow.in,9406002884,4.7,2019-08-27,Net 60
+SUP0039,Shah Trading,Manufacturer,Chennai,Tamil Nadu,Tanmayi Dara,supplier39@supplyflow.in,9817112652,5.0,2020-11-04,Net 45
+SUP0040,Dada Industries,Wholesaler,Bangalore,Karnataka,Michael Dada,supplier40@supplyflow.in,9694019365,2.8,2019-05-10,Net 45
+SUP0041,Shanker Logistics,Wholesaler,Bangalore,Karnataka,Hitesh Pandey,supplier41@supplyflow.in,9624557080,3.0,2020-01-03,Immediate
+SUP0042,Mutti Logistics,Manufacturer,Bangalore,Karnataka,Dipta Hans,supplier42@supplyflow.in,9784095277,2.6,2020-03-24,Immediate
+SUP0043,Wable Trading,Manufacturer,Chennai,Tamil Nadu,Rajata Gulati,supplier43@supplyflow.in,9220123666,4.3,2018-12-05,Net 30
+SUP0044,Gole Enterprises,Distributor,Bangalore,Karnataka,Aarna Dara,supplier44@supplyflow.in,9236843584,4.0,2018-05-12,Net 30
+SUP0045,Dara Enterprises,Wholesaler,Bangalore,Karnataka,Baljiwan Contractor,supplier45@supplyflow.in,9210373808,3.0,2020-09-28,Immediate
+SUP0046,Chopra Enterprises,Manufacturer,Chennai,Tamil Nadu,Upadhriti Rastogi,supplier46@supplyflow.in,9958872154,4.4,2019-07-01,Net 45
+SUP0047,Garde Supply Co,Wholesaler,Bangalore,Karnataka,Samaksh Desai,supplier47@supplyflow.in,9889262019,4.5,2019-05-06,Net 30
+SUP0048,Kannan Supply Co,Manufacturer,Hyderabad,Telangana,Nicholas Ganesan,supplier48@supplyflow.in,9314289692,4.7,2021-06-10,Net 45
+SUP0049,Sahni Enterprises,Distributor,Delhi,Delhi,Advika Gill,supplier49@supplyflow.in,9452468587,2.6,2020-02-25,Net 60
+SUP0050,Sathe Supply Co,Wholesaler,Bangalore,Karnataka,Krishna Palla,supplier50@supplyflow.in,9675757257,4.1,2020-01-04,Net 60
+SUP0051,Aggarwal Logistics,Manufacturer,Delhi,Delhi,Damyanti Venkataraman,supplier51@supplyflow.in,9216396351,4.0,2021-06-24,Net 60
+SUP0052,Karpe Trading,Manufacturer,Hyderabad,Telangana,Ishani Kanda,supplier52@supplyflow.in,9513600440,4.0,2019-05-02,Immediate
+SUP0053,Subramanian Trading,Wholesaler,Mumbai,Maharashtra,Fitan Bala,supplier53@supplyflow.in,9872482077,3.8,2019-06-14,Net 30
+SUP0054,Munshi Industries,Wholesaler,Bangalore,Karnataka,Alexander Zachariah,supplier54@supplyflow.in,9422468580,4.1,2020-11-14,Net 60
+SUP0055,Nath Trading,Manufacturer,Hyderabad,Telangana,Faris Arora,supplier55@supplyflow.in,9305986733,4.2,2021-11-13,Net 45
+SUP0056,Pall Supply Co,Wholesaler,Chennai,Tamil Nadu,Avi Dora,supplier56@supplyflow.in,9995205588,3.9,2018-05-10,Net 45
+SUP0057,Bhagat Trading,Wholesaler,Hyderabad,Telangana,Krishna Garde,supplier57@supplyflow.in,9446012478,4.5,2021-08-15,Net 45
+SUP0058,Reddy Enterprises,Wholesaler,Chennai,Tamil Nadu,Nimrat Tak,supplier58@supplyflow.in,9191048514,3.7,2020-09-22,Net 60
+SUP0059,Gulati Enterprises,Wholesaler,Mumbai,Maharashtra,Samuel Agarwal,supplier59@supplyflow.in,9433310361,4.5,2019-04-05,Net 30
+SUP0060,Das Supply Co,Wholesaler,Mumbai,Maharashtra,Vidhi Mann,supplier60@supplyflow.in,9925159146,3.1,2018-08-14,Net 45
+SUP0061,Dasgupta Enterprises,Manufacturer,Hyderabad,Telangana,Varenya Agate,supplier61@supplyflow.in,9804436922,3.7,2018-02-25,Immediate
+SUP0062,Rau Trading,Distributor,Delhi,Delhi,Rohan Balay,supplier62@supplyflow.in,9153921577,2.9,2019-02-15,Net 45
+SUP0063,Mohanty Trading,Wholesaler,Hyderabad,Telangana,Chatura Barman,supplier63@supplyflow.in,9440696084,4.2,2021-10-27,Immediate
+SUP0064,Edwin Enterprises,Wholesaler,Chennai,Tamil Nadu,Udarsh Deshmukh,supplier64@supplyflow.in,9609677794,3.6,2021-05-25,Net 45
+SUP0065,Om Trading,Distributor,Bangalore,Karnataka,Advaith Guha,supplier65@supplyflow.in,9772966010,4.4,2019-05-15,Net 30
+SUP0066,Dhingra Logistics,Distributor,Bangalore,Karnataka,Robert Manne,supplier66@supplyflow.in,9679984033,3.1,2018-03-05,Net 45
+SUP0067,Bhatia Enterprises,Manufacturer,Hyderabad,Telangana,Dakshesh Kurian,supplier67@supplyflow.in,9545461013,4.2,2021-06-18,Immediate
+SUP0068,Parsa Supply Co,Distributor,Hyderabad,Telangana,Krishna Bains,supplier68@supplyflow.in,9926561919,2.7,2018-10-13,Immediate
+SUP0069,Parikh Logistics,Distributor,Mumbai,Maharashtra,Vrinda Varughese,supplier69@supplyflow.in,9997356828,4.9,2021-09-24,Net 45
+SUP0070,Karan Supply Co,Distributor,Hyderabad,Telangana,Jonathan Dey,supplier70@supplyflow.in,9131165166,3.0,2021-06-22,Immediate
+SUP0071,Khatri Enterprises,Wholesaler,Delhi,Delhi,Leena Kapoor,supplier71@supplyflow.in,9673510887,4.6,2018-07-19,Net 30
+SUP0072,Talwar Enterprises,Distributor,Mumbai,Maharashtra,Zashil Dhingra,supplier72@supplyflow.in,9295130056,4.1,2018-05-13,Net 60
+SUP0073,Jain Logistics,Distributor,Delhi,Delhi,Faraj Barad,supplier73@supplyflow.in,9398775766,3.6,2021-05-27,Net 30
+SUP0074,Chandran Trading,Manufacturer,Hyderabad,Telangana,Vivaan Seshadri,supplier74@supplyflow.in,9475767056,2.5,2019-11-03,Net 30
+SUP0075,Gole Enterprises,Manufacturer,Mumbai,Maharashtra,Triveni Kunda,supplier75@supplyflow.in,9767154083,4.9,2019-04-05,Immediate
+SUP0076,Taneja Enterprises,Distributor,Mumbai,Maharashtra,Isaiah Hari,supplier76@supplyflow.in,9851044796,3.9,2020-06-06,Net 30
+SUP0077,Rana Industries,Wholesaler,Delhi,Delhi,Widisha Kala,supplier77@supplyflow.in,9127571992,4.9,2020-10-22,Immediate
+SUP0078,Virk Enterprises,Manufacturer,Hyderabad,Telangana,Aradhana Sahota,supplier78@supplyflow.in,9735760237,4.9,2019-02-23,Net 60
+SUP0079,Minhas Trading,Manufacturer,Chennai,Tamil Nadu,Falak Comar,supplier79@supplyflow.in,9472807202,4.5,2021-11-12,Net 30
+SUP0080,Sastry Industries,Distributor,Chennai,Tamil Nadu,Gauri Kumar,supplier80@supplyflow.in,9982971099,4.1,2021-02-14,Net 60
+SUP0081,Dube Supply Co,Manufacturer,Hyderabad,Telangana,Zarna Arya,supplier81@supplyflow.in,9887906704,4.3,2020-10-26,Immediate
+SUP0082,Krishna Trading,Distributor,Hyderabad,Telangana,Vasana Savant,supplier82@supplyflow.in,9446071904,3.6,2019-02-09,Immediate
+SUP0083,Sahni Trading,Wholesaler,Delhi,Delhi,Yug Tara,supplier83@supplyflow.in,9817461907,4.4,2021-06-01,Immediate
+SUP0084,Krishnamurthy Enterprises,Distributor,Bangalore,Karnataka,Pavani Dua,supplier84@supplyflow.in,9956665975,3.0,2020-06-09,Net 60
+SUP0085,Sastry Enterprises,Manufacturer,Chennai,Tamil Nadu,Odika Nadig,supplier85@supplyflow.in,9359154084,2.5,2021-08-18,Net 45
+SUP0086,Sandal Supply Co,Distributor,Hyderabad,Telangana,Pranav Nayar,supplier86@supplyflow.in,9951405188,4.1,2018-02-10,Net 45
+SUP0087,Halder Logistics,Wholesaler,Hyderabad,Telangana,Nilima Batra,supplier87@supplyflow.in,9724440558,4.2,2020-08-18,Net 60
+SUP0088,Dayal Trading,Distributor,Hyderabad,Telangana,Rayaan Dugal,supplier88@supplyflow.in,9477753674,5.0,2021-05-10,Net 60
+SUP0089,Grewal Enterprises,Distributor,Delhi,Delhi,Yochana Yohannan,supplier89@supplyflow.in,9228370927,2.8,2019-04-07,Immediate
+SUP0090,Nanda Trading,Wholesaler,Bangalore,Karnataka,Gopal Nagy,supplier90@supplyflow.in,9403867539,4.3,2018-04-10,Net 45
+SUP0091,Goda Industries,Wholesaler,Bangalore,Karnataka,Charvi Dash,supplier91@supplyflow.in,9673523188,2.9,2019-05-02,Net 30
+SUP0092,Ganguly Enterprises,Wholesaler,Chennai,Tamil Nadu,Bhavini Saran,supplier92@supplyflow.in,9908304440,3.2,2021-02-28,Net 30
+SUP0093,Doctor Supply Co,Distributor,Chennai,Tamil Nadu,Urmi Narang,supplier93@supplyflow.in,9465830215,3.2,2019-01-09,Immediate
+SUP0094,Shroff Supply Co,Distributor,Mumbai,Maharashtra,Maya Khanna,supplier94@supplyflow.in,9179545125,4.6,2018-03-05,Net 60
+SUP0095,Thakkar Industries,Wholesaler,Mumbai,Maharashtra,Brijesh Grover,supplier95@supplyflow.in,9920814900,5.0,2021-10-20,Net 45
+SUP0096,Rama Supply Co,Distributor,Chennai,Tamil Nadu,Sudiksha Parmer,supplier96@supplyflow.in,9731924051,3.5,2021-05-19,Net 30
+SUP0097,Singhal Industries,Manufacturer,Chennai,Tamil Nadu,Champak Andra,supplier97@supplyflow.in,9771641650,4.9,2019-05-22,Net 30
+SUP0098,Varma Trading,Manufacturer,Delhi,Delhi,Aadi Varkey,supplier98@supplyflow.in,9268075622,3.1,2018-07-15,Immediate
+SUP0099,Tella Logistics,Wholesaler,Bangalore,Karnataka,Manya Varghese,supplier99@supplyflow.in,9403566540,2.6,2021-02-22,Net 45
+SUP0100,Parsa Trading,Wholesaler,Bangalore,Karnataka,Harshil Sangha,supplier100@supplyflow.in,9963187150,4.5,2019-07-04,Net 45
+SUP0101,Gulati Enterprises,Manufacturer,Delhi,Delhi,Ethan Dube,supplier101@supplyflow.in,9164035859,4.8,2019-05-20,Net 60
+SUP0102,Jain Logistics,Wholesaler,Hyderabad,Telangana,Upma Mahal,supplier102@supplyflow.in,9532190231,2.8,2020-09-18,Immediate
+SUP0103,Mital Industries,Distributor,Hyderabad,Telangana,Zinal Sani,supplier103@supplyflow.in,9888699799,2.7,2020-10-09,Net 30
+SUP0104,Sandhu Trading,Wholesaler,Mumbai,Maharashtra,Nihal Wali,supplier104@supplyflow.in,9122275263,3.1,2020-10-02,Net 45
+SUP0105,Kari Supply Co,Distributor,Hyderabad,Telangana,Neha Khanna,supplier105@supplyflow.in,9294872482,3.8,2021-11-27,Immediate
+SUP0106,Kaur Supply Co,Distributor,Mumbai,Maharashtra,Abhimanyu Anne,supplier106@supplyflow.in,9444733679,3.7,2018-03-11,Immediate
+SUP0107,Sastry Supply Co,Wholesaler,Hyderabad,Telangana,Yuvraj Ramesh,supplier107@supplyflow.in,9139403247,3.2,2021-02-11,Net 60
+SUP0108,Doshi Supply Co,Wholesaler,Bangalore,Karnataka,Warda Kapoor,supplier108@supplyflow.in,9985758835,2.8,2018-11-28,Immediate
+SUP0109,Rege Trading,Distributor,Hyderabad,Telangana,Bhavya Dada,supplier109@supplyflow.in,9768548027,2.6,2021-11-15,Net 30
+SUP0110,Om Enterprises,Distributor,Delhi,Delhi,Zaid Kumar,supplier110@supplyflow.in,9570423569,3.2,2021-02-01,Net 45
+SUP0111,Bhardwaj Industries,Wholesaler,Delhi,Delhi,Sudiksha Acharya,supplier111@supplyflow.in,9538076670,3.3,2018-04-27,Net 30
+SUP0112,Khanna Enterprises,Distributor,Hyderabad,Telangana,Devika Borra,supplier112@supplyflow.in,9869446962,4.9,2020-09-23,Net 60
+SUP0113,Kamdar Supply Co,Manufacturer,Hyderabad,Telangana,Veda Menon,supplier113@supplyflow.in,9590470737,4.6,2019-07-07,Net 45
+SUP0114,Issac Supply Co,Distributor,Mumbai,Maharashtra,Pallavi Kalita,supplier114@supplyflow.in,9945805127,3.2,2020-01-10,Net 60
+SUP0115,Pant Supply Co,Manufacturer,Chennai,Tamil Nadu,Janani Gopal,supplier115@supplyflow.in,9579476614,3.9,2021-06-11,Immediate
+SUP0116,Mallick Enterprises,Wholesaler,Hyderabad,Telangana,Rohan Mangal,supplier116@supplyflow.in,9356415500,4.8,2021-04-28,Immediate
+SUP0117,Jani Supply Co,Wholesaler,Mumbai,Maharashtra,Rohan Chaudhry,supplier117@supplyflow.in,9971243675,3.3,2021-07-22,Net 45
+SUP0118,Seth Enterprises,Wholesaler,Hyderabad,Telangana,Rushil Khatri,supplier118@supplyflow.in,9733701411,4.9,2020-02-28,Immediate
+SUP0119,Sibal Supply Co,Manufacturer,Mumbai,Maharashtra,Guneet Munshi,supplier119@supplyflow.in,9875718152,3.8,2019-07-28,Net 45
+SUP0120,Tara Logistics,Distributor,Mumbai,Maharashtra,Fiyaz Babu,supplier120@supplyflow.in,9769219685,3.7,2021-11-03,Net 60
+SUP0121,Narang Logistics,Wholesaler,Chennai,Tamil Nadu,Idika Sehgal,supplier121@supplyflow.in,9871716956,3.5,2021-09-02,Net 30
+SUP0122,Wason Logistics,Manufacturer,Delhi,Delhi,Jack Soni,supplier122@supplyflow.in,9901834280,4.1,2018-07-04,Net 30
+SUP0123,Chanda Logistics,Manufacturer,Hyderabad,Telangana,Advay Basak,supplier123@supplyflow.in,9149382425,2.9,2020-01-10,Net 60
+SUP0124,Khatri Enterprises,Wholesaler,Bangalore,Karnataka,Vasatika Choudhury,supplier124@supplyflow.in,9542437192,3.6,2019-03-06,Net 30
+SUP0125,Dewan Trading,Wholesaler,Chennai,Tamil Nadu,Orinder Kunda,supplier125@supplyflow.in,9358589021,4.7,2021-10-05,Net 45
+SUP0126,Dhar Supply Co,Distributor,Hyderabad,Telangana,Balveer Chadha,supplier126@supplyflow.in,9816014770,4.1,2018-08-10,Net 45
+SUP0127,Karnik Logistics,Wholesaler,Mumbai,Maharashtra,Daksha Mallick,supplier127@supplyflow.in,9421214426,3.6,2021-12-09,Immediate
+SUP0128,Mangal Supply Co,Distributor,Bangalore,Karnataka,Pranit Ranganathan,supplier128@supplyflow.in,9214518079,3.0,2019-07-19,Net 60
+SUP0129,Chand Logistics,Manufacturer,Chennai,Tamil Nadu,Ronith Dua,supplier129@supplyflow.in,9991246046,3.2,2021-05-01,Net 30
+SUP0130,Kurian Logistics,Manufacturer,Chennai,Tamil Nadu,Simon Lad,supplier130@supplyflow.in,9751831074,4.4,2020-04-21,Net 45
+SUP0131,Chaudhuri Enterprises,Wholesaler,Chennai,Tamil Nadu,Warhi Bhandari,supplier131@supplyflow.in,9204328975,3.1,2018-05-26,Immediate
+SUP0132,Rastogi Enterprises,Manufacturer,Mumbai,Maharashtra,Waida Sidhu,supplier132@supplyflow.in,9416872439,3.9,2020-12-14,Net 45
+SUP0133,Mitter Trading,Distributor,Delhi,Delhi,Ishwar Behl,supplier133@supplyflow.in,9669998399,2.8,2020-03-09,Immediate
+SUP0134,Mane Logistics,Manufacturer,Bangalore,Karnataka,Upadhriti Virk,supplier134@supplyflow.in,9602866993,4.4,2018-03-25,Net 45
+SUP0135,Gera Trading,Distributor,Hyderabad,Telangana,Janaki Raval,supplier135@supplyflow.in,9196961971,4.9,2021-01-09,Net 30
+SUP0136,Madan Logistics,Wholesaler,Hyderabad,Telangana,Teerth Mannan,supplier136@supplyflow.in,9509123009,3.4,2020-02-22,Net 45
+SUP0137,Kaur Trading,Distributor,Hyderabad,Telangana,Tripti Sheth,supplier137@supplyflow.in,9755070775,2.6,2019-11-03,Immediate
+SUP0138,Bansal Industries,Manufacturer,Bangalore,Karnataka,Parth Sodhi,supplier138@supplyflow.in,9148690765,4.1,2018-05-16,Net 30
+SUP0139,Khalsa Trading,Manufacturer,Mumbai,Maharashtra,Janani Gulati,supplier139@supplyflow.in,9517305280,3.1,2021-06-22,Immediate
+SUP0140,Babu Enterprises,Distributor,Chennai,Tamil Nadu,Ojas Rau,supplier140@supplyflow.in,9803217037,4.4,2018-08-20,Immediate
+SUP0141,Maharaj Logistics,Manufacturer,Bangalore,Karnataka,Lajita Chaudhari,supplier141@supplyflow.in,9576078963,2.6,2021-04-28,Net 60
+SUP0142,Rao Logistics,Wholesaler,Mumbai,Maharashtra,Panini Din,supplier142@supplyflow.in,9792377512,5.0,2020-01-13,Net 60
+SUP0143,Gupta Supply Co,Manufacturer,Delhi,Delhi,Yashvi Palan,supplier143@supplyflow.in,9811642514,4.9,2019-11-21,Net 30
+SUP0144,Rama Enterprises,Manufacturer,Mumbai,Maharashtra,Amruta Gara,supplier144@supplyflow.in,9945011302,4.5,2019-02-27,Net 45
+SUP0145,Lala Enterprises,Distributor,Chennai,Tamil Nadu,Anay Madan,supplier145@supplyflow.in,9931471931,3.0,2019-10-01,Net 60
+SUP0146,Nadkarni Trading,Distributor,Delhi,Delhi,Omisha Prabhakar,supplier146@supplyflow.in,9957397689,5.0,2019-02-22,Net 30
+SUP0147,Mann Enterprises,Wholesaler,Delhi,Delhi,Kashish Vyas,supplier147@supplyflow.in,9447646966,2.5,2018-03-09,Net 30
+SUP0148,Reddy Trading,Manufacturer,Delhi,Delhi,Farhan Tak,supplier148@supplyflow.in,9900651998,4.4,2018-08-15,Net 60
+SUP0149,Panchal Supply Co,Wholesaler,Chennai,Tamil Nadu,Azad Ganguly,supplier149@supplyflow.in,9337887233,4.0,2018-12-26,Net 60
+SUP0150,Chhabra Industries,Manufacturer,Hyderabad,Telangana,Nicholas Upadhyay,supplier150@supplyflow.in,9614302907,4.1,2021-07-22,Net 30
+SUP0151,Soni Supply Co,Manufacturer,Hyderabad,Telangana,Arya Chada,supplier151@supplyflow.in,9186748119,4.3,2020-10-05,Net 30
+SUP0152,Merchant Trading,Wholesaler,Delhi,Delhi,Kavya Chadha,supplier152@supplyflow.in,9864668242,3.2,2020-07-20,Net 60
+SUP0153,De Supply Co,Manufacturer,Hyderabad,Telangana,Chanakya Wali,supplier153@supplyflow.in,9951580447,3.8,2018-11-21,Net 45
+SUP0154,Roy Enterprises,Distributor,Hyderabad,Telangana,Yashawini Grover,supplier154@supplyflow.in,9463925049,3.6,2021-07-14,Net 30
+SUP0155,Bhavsar Logistics,Distributor,Bangalore,Karnataka,Chaman Parekh,supplier155@supplyflow.in,9263894795,3.6,2021-02-03,Net 30
+SUP0156,Comar Logistics,Manufacturer,Mumbai,Maharashtra,Avni Kala,supplier156@supplyflow.in,9697398528,3.6,2018-10-18,Net 60
+SUP0157,Sane Supply Co,Wholesaler,Mumbai,Maharashtra,Nitara Chakraborty,supplier157@supplyflow.in,9155239803,3.5,2020-10-10,Net 60
+SUP0158,Dube Enterprises,Manufacturer,Mumbai,Maharashtra,Harinakshi More,supplier158@supplyflow.in,9805165232,3.9,2021-04-28,Net 30
+SUP0159,Muni Logistics,Manufacturer,Bangalore,Karnataka,Maanas Basu,supplier159@supplyflow.in,9918841563,4.6,2020-10-08,Immediate
+SUP0160,Dhar Trading,Wholesaler,Chennai,Tamil Nadu,Ishaan Luthra,supplier160@supplyflow.in,9824750726,4.9,2018-10-22,Net 60
+SUP0161,Basu Logistics,Distributor,Mumbai,Maharashtra,Urvi Gara,supplier161@supplyflow.in,9476908532,3.0,2018-03-28,Net 45
+SUP0162,Mukhopadhyay Industries,Manufacturer,Chennai,Tamil Nadu,Ekalinga Varma,supplier162@supplyflow.in,9895609471,4.1,2018-02-24,Net 45
+SUP0163,Sane Logistics,Manufacturer,Hyderabad,Telangana,Shivansh Mane,supplier163@supplyflow.in,9497341481,3.5,2020-12-11,Net 30
+SUP0164,Karpe Trading,Manufacturer,Mumbai,Maharashtra,Sachi Bobal,supplier164@supplyflow.in,9823668399,2.9,2018-05-15,Immediate
+SUP0165,Konda Supply Co,Distributor,Hyderabad,Telangana,Yashica Badal,supplier165@supplyflow.in,9331465414,4.0,2018-06-14,Net 30
+SUP0166,Kala Trading,Distributor,Bangalore,Karnataka,Hamsini Ganguly,supplier166@supplyflow.in,9665791188,4.2,2020-01-08,Immediate
+SUP0167,Som Enterprises,Distributor,Chennai,Tamil Nadu,Urmi Bhandari,supplier167@supplyflow.in,9326810757,2.6,2019-05-10,Net 60
+SUP0168,De Supply Co,Manufacturer,Mumbai,Maharashtra,Alexander Mandal,supplier168@supplyflow.in,9238712095,2.5,2021-09-23,Net 45
+SUP0169,Kala Logistics,Manufacturer,Chennai,Tamil Nadu,Charles Iyer,supplier169@supplyflow.in,9526351920,3.9,2018-07-01,Immediate
+SUP0170,Gade Trading,Distributor,Mumbai,Maharashtra,Girish Edwin,supplier170@supplyflow.in,9715683222,4.7,2021-12-21,Immediate
+SUP0171,Sahota Industries,Distributor,Bangalore,Karnataka,Qushi Chokshi,supplier171@supplyflow.in,9284547422,2.8,2021-12-12,Net 30
+SUP0172,Anand Enterprises,Distributor,Hyderabad,Telangana,Madhav Dyal,supplier172@supplyflow.in,9732295732,4.6,2021-09-03,Immediate
+SUP0173,Das Enterprises,Distributor,Bangalore,Karnataka,Yachana Srinivasan,supplier173@supplyflow.in,9936571442,4.4,2019-02-17,Net 30
+SUP0174,Thaman Logistics,Distributor,Chennai,Tamil Nadu,Libni Naidu,supplier174@supplyflow.in,9881017363,3.8,2019-04-04,Net 45
+SUP0175,Narayan Trading,Manufacturer,Bangalore,Karnataka,Faris Yohannan,supplier175@supplyflow.in,9916274954,3.0,2018-03-25,Immediate
+SUP0176,Padmanabhan Trading,Distributor,Hyderabad,Telangana,Niharika Dhaliwal,supplier176@supplyflow.in,9831361497,4.4,2020-11-11,Net 45
+SUP0177,Badami Supply Co,Wholesaler,Hyderabad,Telangana,Ekaja Mohan,supplier177@supplyflow.in,9425150964,2.7,2020-10-02,Net 60
+SUP0178,Atwal Supply Co,Distributor,Chennai,Tamil Nadu,Dalaja Konda,supplier178@supplyflow.in,9140380477,2.7,2018-06-27,Net 60
+SUP0179,Arora Industries,Wholesaler,Mumbai,Maharashtra,Hitesh Biswas,supplier179@supplyflow.in,9737888347,4.1,2021-08-19,Net 30
+SUP0180,Dasgupta Trading,Wholesaler,Hyderabad,Telangana,Shivansh Uppal,supplier180@supplyflow.in,9302120588,4.8,2020-10-16,Net 45
+SUP0181,Ramesh Logistics,Wholesaler,Mumbai,Maharashtra,Yug Patel,supplier181@supplyflow.in,9190547712,3.6,2019-01-08,Immediate
+SUP0182,Bassi Trading,Manufacturer,Hyderabad,Telangana,Ridhi Basak,supplier182@supplyflow.in,9490732457,3.8,2020-05-13,Immediate
+SUP0183,Bhatia Industries,Wholesaler,Bangalore,Karnataka,Meera Atwal,supplier183@supplyflow.in,9795038832,4.2,2020-02-11,Net 30
+SUP0184,D’Alia Logistics,Distributor,Chennai,Tamil Nadu,Ria Subramanian,supplier184@supplyflow.in,9877103091,4.2,2019-06-03,Net 45
+SUP0185,Mangal Supply Co,Manufacturer,Bangalore,Karnataka,Ayaan Banik,supplier185@supplyflow.in,9738920648,3.3,2018-05-18,Immediate
+SUP0186,Muni Trading,Manufacturer,Bangalore,Karnataka,Damini Raval,supplier186@supplyflow.in,9793663866,4.5,2021-09-12,Net 30
+SUP0187,Patel Enterprises,Distributor,Bangalore,Karnataka,Daksh Tak,supplier187@supplyflow.in,9922653967,3.3,2021-04-08,Net 45
+SUP0188,Nigam Industries,Wholesaler,Delhi,Delhi,Tejas Toor,supplier188@supplyflow.in,9927720428,2.7,2018-11-11,Net 45
+SUP0189,Gera Enterprises,Manufacturer,Chennai,Tamil Nadu,Tejas Bose,supplier189@supplyflow.in,9992649957,3.4,2019-12-15,Net 30
+SUP0190,Palla Enterprises,Distributor,Hyderabad,Telangana,Imaran Krishna,supplier190@supplyflow.in,9755621841,3.4,2020-12-26,Immediate
+SUP0191,Kapoor Logistics,Distributor,Delhi,Delhi,Nikita Dhawan,supplier191@supplyflow.in,9996696177,3.8,2019-06-22,Immediate
+SUP0192,Mandal Supply Co,Wholesaler,Hyderabad,Telangana,Laksh Bobal,supplier192@supplyflow.in,9666355637,4.4,2021-03-27,Net 45
+SUP0193,Kannan Logistics,Manufacturer,Chennai,Tamil Nadu,Varsha Balakrishnan,supplier193@supplyflow.in,9788460744,2.8,2021-06-18,Net 30
+SUP0194,Magar Logistics,Manufacturer,Chennai,Tamil Nadu,Mohammed Mandal,supplier194@supplyflow.in,9919390458,4.6,2019-05-15,Net 45
+SUP0195,Baria Enterprises,Distributor,Hyderabad,Telangana,Pooja Deshpande,supplier195@supplyflow.in,9475364113,2.7,2018-07-02,Immediate
+SUP0196,Deo Supply Co,Manufacturer,Chennai,Tamil Nadu,Reyansh Hegde,supplier196@supplyflow.in,9502559419,3.4,2019-01-11,Net 30
+SUP0197,Pathak Enterprises,Manufacturer,Bangalore,Karnataka,Zayan Balan,supplier197@supplyflow.in,9408034406,4.5,2021-12-27,Net 45
+SUP0198,Chokshi Industries,Manufacturer,Hyderabad,Telangana,Falan Sura,supplier198@supplyflow.in,9120405269,3.6,2020-04-27,Net 45
+SUP0199,Cheema Trading,Wholesaler,Chennai,Tamil Nadu,Vidhi Madan,supplier199@supplyflow.in,9554466340,4.9,2018-05-08,Net 60
+SUP0200,Srinivas Supply Co,Wholesaler,Mumbai,Maharashtra,Brinda Sekhon,supplier200@supplyflow.in,9952442674,2.6,2021-02-04,Immediate
+SUP0201,Bansal Trading,Wholesaler,Chennai,Tamil Nadu,Devika Lata,supplier201@supplyflow.in,9359779090,3.8,2019-05-14,Net 30
+SUP0202,Anand Trading,Distributor,Chennai,Tamil Nadu,Hema Singhal,supplier202@supplyflow.in,9301126777,3.4,2018-09-12,Net 30
+SUP0203,Khatri Trading,Wholesaler,Chennai,Tamil Nadu,Benjamin Zachariah,supplier203@supplyflow.in,9121833792,3.9,2021-08-02,Immediate
+SUP0204,Lad Industries,Distributor,Bangalore,Karnataka,Eesha Narayan,supplier204@supplyflow.in,9946666926,3.1,2018-06-08,Net 30
+SUP0205,Deep Logistics,Manufacturer,Chennai,Tamil Nadu,Girish Borra,supplier205@supplyflow.in,9147605080,4.3,2020-09-11,Net 45
+SUP0206,Solanki Supply Co,Wholesaler,Hyderabad,Telangana,Aradhana Sundaram,supplier206@supplyflow.in,9295719504,5.0,2019-02-23,Immediate
+SUP0207,Talwar Industries,Manufacturer,Mumbai,Maharashtra,Tripti Kale,supplier207@supplyflow.in,9144996163,3.2,2020-05-17,Immediate
+SUP0208,Suri Industries,Wholesaler,Chennai,Tamil Nadu,Turvi Shenoy,supplier208@supplyflow.in,9305195749,3.7,2020-06-28,Net 30
+SUP0209,Pall Logistics,Distributor,Bangalore,Karnataka,Geetika Sethi,supplier209@supplyflow.in,9529520110,3.2,2021-07-11,Net 45
+SUP0210,Korpal Logistics,Wholesaler,Hyderabad,Telangana,Ladli Manda,supplier210@supplyflow.in,9386389162,4.2,2018-12-14,Net 30
+SUP0211,Prashad Enterprises,Wholesaler,Hyderabad,Telangana,Oliver Merchant,supplier211@supplyflow.in,9415429295,4.0,2020-02-03,Net 60
+SUP0212,Ratti Trading,Wholesaler,Bangalore,Karnataka,Sathvik Pillai,supplier212@supplyflow.in,9557538651,3.3,2019-12-15,Net 60
+SUP0213,Bakshi Logistics,Wholesaler,Hyderabad,Telangana,Damini Nagar,supplier213@supplyflow.in,9567013808,2.6,2020-11-26,Net 30
+SUP0214,Jani Supply Co,Distributor,Mumbai,Maharashtra,Ria Sahota,supplier214@supplyflow.in,9650921917,4.2,2019-01-05,Immediate
+SUP0215,Pai Enterprises,Wholesaler,Mumbai,Maharashtra,Jason Naidu,supplier215@supplyflow.in,9493342201,2.8,2020-07-19,Net 30
+SUP0216,Wable Supply Co,Distributor,Chennai,Tamil Nadu,Advay Naidu,supplier216@supplyflow.in,9499446327,2.9,2021-02-19,Net 45
+SUP0217,Kala Logistics,Wholesaler,Chennai,Tamil Nadu,Jagat Garde,supplier217@supplyflow.in,9399240862,3.4,2019-02-01,Net 45
+SUP0218,Hayer Trading,Manufacturer,Hyderabad,Telangana,Elijah Panchal,supplier218@supplyflow.in,9381080560,3.8,2020-12-15,Net 45
+SUP0219,Balakrishnan Supply Co,Manufacturer,Chennai,Tamil Nadu,Yutika Desai,supplier219@supplyflow.in,9231680929,3.2,2019-02-15,Net 45
+SUP0220,Bora Logistics,Wholesaler,Hyderabad,Telangana,Abha Nadkarni,supplier220@supplyflow.in,9473045064,5.0,2018-09-18,Net 60
+SUP0221,Kothari Enterprises,Distributor,Bangalore,Karnataka,Theodore Dhawan,supplier221@supplyflow.in,9646272321,4.6,2019-02-07,Net 45
+SUP0222,Manne Industries,Distributor,Delhi,Delhi,Dhruv Mitra,supplier222@supplyflow.in,9694875990,4.5,2020-08-26,Net 45
+SUP0223,Batta Industries,Distributor,Chennai,Tamil Nadu,Balhaar Venkataraman,supplier223@supplyflow.in,9527521016,4.7,2021-09-14,Immediate
+SUP0224,Sidhu Logistics,Wholesaler,Chennai,Tamil Nadu,Ayaan Bassi,supplier224@supplyflow.in,9179634081,2.7,2021-08-22,Net 60
+SUP0225,Sane Trading,Wholesaler,Delhi,Delhi,Gopal Rastogi,supplier225@supplyflow.in,9731130400,4.7,2019-03-14,Net 30
+SUP0226,Pall Logistics,Manufacturer,Mumbai,Maharashtra,Gaurika Keer,supplier226@supplyflow.in,9273910700,3.8,2020-12-08,Net 60
+SUP0227,Chowdhury Industries,Distributor,Chennai,Tamil Nadu,Ekaraj Srivastava,supplier227@supplyflow.in,9310777576,4.7,2020-03-21,Net 60
+SUP0228,Savant Trading,Wholesaler,Chennai,Tamil Nadu,George Krishnan,supplier228@supplyflow.in,9281071418,3.8,2019-03-22,Net 60
+SUP0229,Bajaj Industries,Manufacturer,Chennai,Tamil Nadu,Keya Sha,supplier229@supplyflow.in,9148814238,2.6,2020-11-07,Immediate
+SUP0230,Walia Supply Co,Wholesaler,Chennai,Tamil Nadu,Andrew Walia,supplier230@supplyflow.in,9685809361,4.1,2020-11-10,Immediate
+SUP0231,Kapadia Supply Co,Distributor,Delhi,Delhi,Anusha Behl,supplier231@supplyflow.in,9586989309,4.5,2018-12-02,Net 45
+SUP0232,Wali Supply Co,Manufacturer,Hyderabad,Telangana,Yashica Ram,supplier232@supplyflow.in,9465278987,3.5,2019-06-28,Net 60
+SUP0233,Kala Enterprises,Distributor,Bangalore,Karnataka,Siya Dalal,supplier233@supplyflow.in,9652955706,4.9,2018-06-08,Immediate
+SUP0234,Dayal Enterprises,Manufacturer,Mumbai,Maharashtra,Harita Mammen,supplier234@supplyflow.in,9203950725,3.2,2018-05-13,Immediate
+SUP0235,Das Enterprises,Distributor,Delhi,Delhi,Yoshita Chakraborty,supplier235@supplyflow.in,9720286733,4.9,2020-04-25,Net 45
+SUP0236,Badami Supply Co,Distributor,Hyderabad,Telangana,Balhaar Nath,supplier236@supplyflow.in,9431292818,5.0,2021-01-03,Immediate
+SUP0237,Issac Enterprises,Manufacturer,Chennai,Tamil Nadu,Bhavini Goswami,supplier237@supplyflow.in,9726360971,3.6,2020-01-02,Net 60
+SUP0238,Sandhu Supply Co,Distributor,Hyderabad,Telangana,Jeremiah Hayre,supplier238@supplyflow.in,9676267306,4.0,2018-02-14,Net 45
+SUP0239,Halder Supply Co,Distributor,Bangalore,Karnataka,Bishakha Hayre,supplier239@supplyflow.in,9148578655,4.3,2021-01-19,Net 45
+SUP0240,Singh Industries,Distributor,Bangalore,Karnataka,Shivansh Golla,supplier240@supplyflow.in,9641440255,3.9,2021-09-09,Net 30
+SUP0241,Tandon Supply Co,Distributor,Delhi,Delhi,Lekha Butala,supplier241@supplyflow.in,9953514394,4.9,2020-09-12,Net 45
+SUP0242,Baria Supply Co,Wholesaler,Delhi,Delhi,Bhavna Pau,supplier242@supplyflow.in,9143223380,4.0,2018-01-05,Net 60
+SUP0243,Ratta Enterprises,Wholesaler,Hyderabad,Telangana,Faris Dave,supplier243@supplyflow.in,9653520069,3.8,2019-06-20,Net 60
+SUP0244,Krishnamurthy Trading,Wholesaler,Delhi,Delhi,Fiyaz Kata,supplier244@supplyflow.in,9421300425,3.5,2020-09-27,Immediate
+SUP0245,Radhakrishnan Industries,Distributor,Chennai,Tamil Nadu,Laksh Narula,supplier245@supplyflow.in,9455665802,3.2,2018-07-19,Net 60
+SUP0246,Ravel Logistics,Wholesaler,Mumbai,Maharashtra,Samuel Palan,supplier246@supplyflow.in,9940636753,4.0,2019-12-02,Immediate
+SUP0247,Sani Trading,Distributor,Delhi,Delhi,Teerth Sunder,supplier247@supplyflow.in,9258672959,3.8,2019-01-19,Net 30
+SUP0248,Yadav Logistics,Distributor,Delhi,Delhi,Zaitra Kalla,supplier248@supplyflow.in,9262598077,2.5,2021-12-07,Immediate
+SUP0249,Sachdeva Supply Co,Wholesaler,Chennai,Tamil Nadu,Praneel Saha,supplier249@supplyflow.in,9881042056,4.4,2018-12-05,Net 45
+SUP0250,Karpe Supply Co,Wholesaler,Chennai,Tamil Nadu,Eesha Arya,supplier250@supplyflow.in,9504612520,3.3,2020-03-15,Net 60
+SUP0251,Mannan Logistics,Wholesaler,Chennai,Tamil Nadu,Hamsini Mani,supplier251@supplyflow.in,9619884429,3.4,2019-04-09,Net 60
+SUP0252,Pradhan Logistics,Distributor,Delhi,Delhi,Udarsh Dar,supplier252@supplyflow.in,9856881618,4.9,2019-12-23,Immediate
+SUP0253,Bassi Trading,Wholesaler,Bangalore,Karnataka,Anay Bhat,supplier253@supplyflow.in,9393622794,3.7,2020-02-19,Immediate
+SUP0254,Sundaram Enterprises,Distributor,Hyderabad,Telangana,Umang Dhawan,supplier254@supplyflow.in,9145168545,4.5,2020-12-03,Net 60
+SUP0255,Nazareth Supply Co,Manufacturer,Hyderabad,Telangana,Yashica Wadhwa,supplier255@supplyflow.in,9316968866,4.1,2020-09-23,Net 60
+SUP0256,Mohan Trading,Manufacturer,Delhi,Delhi,Waida Saxena,supplier256@supplyflow.in,9360337343,2.8,2018-11-17,Net 45
+SUP0257,Gopal Supply Co,Distributor,Delhi,Delhi,Amrita Dass,supplier257@supplyflow.in,9870257350,2.6,2021-02-22,Net 45
+SUP0258,Kari Enterprises,Distributor,Mumbai,Maharashtra,Edhitha Wable,supplier258@supplyflow.in,9801038300,4.9,2021-08-21,Net 45
+SUP0259,Dalal Industries,Manufacturer,Bangalore,Karnataka,Geetika Mangal,supplier259@supplyflow.in,9800400428,3.3,2019-09-24,Net 30
+SUP0260,Yohannan Enterprises,Manufacturer,Delhi,Delhi,Balveer Kapur,supplier260@supplyflow.in,9997866344,3.5,2021-08-06,Net 60
+SUP0261,Bahri Trading,Wholesaler,Mumbai,Maharashtra,Nidra Sura,supplier261@supplyflow.in,9215213239,2.5,2020-05-15,Immediate
+SUP0262,Viswanathan Supply Co,Distributor,Delhi,Delhi,Rohan Chaudhari,supplier262@supplyflow.in,9307029662,4.6,2018-06-06,Immediate
+SUP0263,Gala Industries,Wholesaler,Bangalore,Karnataka,Alexander Dar,supplier263@supplyflow.in,9461971444,4.3,2020-10-22,Net 45
+SUP0264,Bhavsar Supply Co,Distributor,Delhi,Delhi,Gabriel Datta,supplier264@supplyflow.in,9653278397,4.0,2020-02-13,Net 30
+SUP0265,Mody Supply Co,Distributor,Delhi,Delhi,Sneha Salvi,supplier265@supplyflow.in,9366338529,5.0,2018-05-13,Net 45
+SUP0266,Sampath Logistics,Distributor,Hyderabad,Telangana,Tanay Dhar,supplier266@supplyflow.in,9725412469,4.4,2018-05-21,Net 60
+SUP0267,Boase Industries,Distributor,Delhi,Delhi,Anay Naik,supplier267@supplyflow.in,9429430802,2.7,2019-07-22,Net 60
+SUP0268,Chauhan Logistics,Distributor,Mumbai,Maharashtra,Lipika Kashyap,supplier268@supplyflow.in,9759949050,4.1,2019-04-05,Immediate
+SUP0269,Dayal Trading,Distributor,Delhi,Delhi,Udarsh Chander,supplier269@supplyflow.in,9546510829,3.6,2021-09-26,Net 45
+SUP0270,Bedi Trading,Manufacturer,Delhi,Delhi,Gavin Bhatnagar,supplier270@supplyflow.in,9664258474,4.2,2021-09-23,Net 60
+SUP0271,Dhingra Industries,Manufacturer,Mumbai,Maharashtra,Ishani Bansal,supplier271@supplyflow.in,9989889367,4.8,2019-10-18,Net 45
+SUP0272,Singh Trading,Distributor,Delhi,Delhi,Vyanjana Dube,supplier272@supplyflow.in,9224811770,3.3,2019-12-19,Immediate
+SUP0273,Bassi Supply Co,Manufacturer,Mumbai,Maharashtra,Rohan Toor,supplier273@supplyflow.in,9586869229,4.7,2019-09-14,Immediate
+SUP0274,Saran Supply Co,Wholesaler,Chennai,Tamil Nadu,Nicholas Gill,supplier274@supplyflow.in,9966418765,2.6,2020-12-01,Immediate
+SUP0275,Basu Enterprises,Wholesaler,Bangalore,Karnataka,Ekani Nagi,supplier275@supplyflow.in,9178414859,4.5,2018-07-12,Net 30
+SUP0276,Toor Industries,Distributor,Chennai,Tamil Nadu,Ayush Sabharwal,supplier276@supplyflow.in,9134075063,5.0,2020-07-06,Net 45
+SUP0277,Bhat Supply Co,Distributor,Hyderabad,Telangana,Bhanumati Buch,supplier277@supplyflow.in,9505333621,3.4,2021-02-22,Net 45
+SUP0278,Kar Trading,Distributor,Bangalore,Karnataka,Hemangini Taneja,supplier278@supplyflow.in,9667840357,2.8,2019-12-08,Net 30
+SUP0279,Shankar Supply Co,Wholesaler,Mumbai,Maharashtra,Robert Vohra,supplier279@supplyflow.in,9872121274,4.9,2021-09-13,Net 45
+SUP0280,Madan Enterprises,Distributor,Delhi,Delhi,Harrison Chanda,supplier280@supplyflow.in,9302379343,3.7,2018-01-26,Immediate
+SUP0281,Balan Industries,Manufacturer,Chennai,Tamil Nadu,Pallavi Lad,supplier281@supplyflow.in,9321278458,4.4,2018-02-20,Net 30
+SUP0282,Sibal Industries,Manufacturer,Hyderabad,Telangana,Gavin Dave,supplier282@supplyflow.in,9895149930,4.0,2018-07-15,Net 45
+SUP0283,Nagar Industries,Manufacturer,Chennai,Tamil Nadu,Oliver Mangat,supplier283@supplyflow.in,9641054044,3.0,2020-04-27,Net 60
+SUP0284,Hayre Logistics,Manufacturer,Chennai,Tamil Nadu,Krishna Sidhu,supplier284@supplyflow.in,9424017094,4.0,2019-11-17,Net 45
+SUP0285,Bail Industries,Wholesaler,Hyderabad,Telangana,Ranveer Vyas,supplier285@supplyflow.in,9735297732,3.3,2019-11-22,Immediate
+SUP0286,Parmer Logistics,Wholesaler,Chennai,Tamil Nadu,Chandresh Sethi,supplier286@supplyflow.in,9820848547,3.7,2021-09-11,Immediate
+SUP0287,Apte Supply Co,Manufacturer,Hyderabad,Telangana,Jasmit Bora,supplier287@supplyflow.in,9910048118,2.9,2021-04-28,Net 45
+SUP0288,Korpal Enterprises,Distributor,Bangalore,Karnataka,Advik Sur,supplier288@supplyflow.in,9161873231,4.6,2021-07-18,Net 45
+SUP0289,Bora Enterprises,Distributor,Hyderabad,Telangana,Chakradhar Sankar,supplier289@supplyflow.in,9794395127,3.1,2018-08-28,Net 60
+SUP0290,Dass Enterprises,Manufacturer,Mumbai,Maharashtra,Sanya Narula,supplier290@supplyflow.in,9388258432,3.8,2021-11-20,Net 30
+SUP0291,Nagarajan Trading,Wholesaler,Mumbai,Maharashtra,Anika More,supplier291@supplyflow.in,9820964511,3.0,2019-08-07,Net 60
+SUP0292,Singhal Industries,Manufacturer,Bangalore,Karnataka,Siddharth Mahajan,supplier292@supplyflow.in,9304036387,4.9,2018-12-25,Immediate
+SUP0293,Dasgupta Enterprises,Distributor,Delhi,Delhi,Laban Malhotra,supplier293@supplyflow.in,9356979659,4.2,2020-05-13,Immediate
+SUP0294,Loyal Logistics,Distributor,Chennai,Tamil Nadu,Karan Shere,supplier294@supplyflow.in,9486165467,4.1,2021-08-04,Immediate
+SUP0295,Iyengar Logistics,Distributor,Bangalore,Karnataka,Dominic Sur,supplier295@supplyflow.in,9544454140,4.8,2018-10-28,Net 45
+SUP0296,Khosla Trading,Wholesaler,Delhi,Delhi,Chameli Chaudhary,supplier296@supplyflow.in,9721849977,2.5,2021-05-05,Net 45
+SUP0297,Ahuja Trading,Manufacturer,Bangalore,Karnataka,Krish Sehgal,supplier297@supplyflow.in,9636120880,3.1,2020-05-25,Immediate
+SUP0298,Bakshi Logistics,Manufacturer,Hyderabad,Telangana,Edhitha Loke,supplier298@supplyflow.in,9250279322,3.7,2021-03-18,Net 30
+SUP0299,Balasubramanian Industries,Wholesaler,Chennai,Tamil Nadu,Amrita Nadig,supplier299@supplyflow.in,9152091933,2.6,2018-07-05,Net 45
+SUP0300,Hari Industries,Manufacturer,Mumbai,Maharashtra,Vedika Upadhyay,supplier300@supplyflow.in,9643026584,4.3,2021-06-02,Immediate
